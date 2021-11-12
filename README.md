@@ -1,6 +1,6 @@
 ### Hi there 👋
-#### I'm just your friendly neighborhood database guy.
-#### During the day I masquerade as @cleonard-godaddy.
+_I'm just your friendly neighborhood database guy._<br/>
+_During the day I masquerade as @cleonard-godaddy._
 
 <!--
 **sql-sith/sql-sith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
